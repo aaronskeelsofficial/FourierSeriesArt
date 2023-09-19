@@ -8,7 +8,7 @@ Draw images out of Fourier decompositions of rotating circles stacked on one ano
 [![Output2](https://i.imgur.com/x7nCa4o.gif)](https://www.youtube.com/watch?v=F2OKzzynvP8)
 
 # Purpose
-The past few weeks my YouTube recommendations have been flooded with '#SoME3' videos, a competition and friendly event held intended to push creators to post interesting and eye-opening math videos. I continuously came across two areas of math which I have have previously been exposure to, but hadn't done much of a *deep* dive of interest yielding complete comprehension yet. They were: Fourier/Laplace Transforms and Complex Numbers. While watching one video on the Fourier Series, they included a visual of the decomposition of a square wave into constituent frequencies by drawing circles independently rotating and then superimposed.
+The past few weeks my YouTube recommendations have been flooded with '#SoME3' videos, a competition and friendly event held intended to push creators to post interesting and eye-opening math videos. I continuously came across two areas of math which I have previously been exposed to, but hadn't done much of a *deep* dive of interest yielding complete comprehension yet. They were: Fourier/Laplace Transforms and Complex Numbers. While watching one video on the Fourier Series, they included a visual of the decomposition of a square wave into constituent frequencies by drawing circles independently rotating and then superimposed.
 
 ![Fourier Series](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fourier_series_square_wave_circles_animation.gif/224px-Fourier_series_square_wave_circles_animation.gif)
 

@@ -16,7 +16,7 @@ That amazed me. Immediately I thought 'But what about input signals which are mo
 
 # Configurable Variables
 - Output Resolution [px] (Resolution of live simulations, rendered MP4, and rendered PNG)
-- Unique Contour/Line Count (Input processes are processed into closed-loop contours, sometimes more than one. This is how many unique contours are drawn. Inclusions are in size-of-line order)
+- Unique Contour/Line Count (Input images are processed into closed-loop contours, sometimes more than one. This is how many unique contours are drawn. Inclusions are in size-of-line order)
 - Cycle Duration [s] (This is the length of time it takes for one full cycle in sims & renders. Renders run for twice this time because the first loop around has no tail, while the second has the full tail)
 - Range of Circles (Fourier Series iteration count. 1 handles -1/0/1, 2 handles -2/-1/0/1/2, n handles -n...n. Don't make too large or instability is introduced bc of impossible percision overshoots)
 - Simulation Time Step [s] (This is the time step between iterations of simluation for live previews and renders.
